@@ -1,0 +1,13 @@
+header {
+    background: url(./Image/Image.png) no-repeat center center /cover;
+    height: 728px;
+    background-color: #51409d;
+    width: 100%;
+}
+.hero-section {
+    padding-top: 72px;
+    margin-left: 220px;
+}
+.hero-section h1 {
+    font-size: 70px;
+}
